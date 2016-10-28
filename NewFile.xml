@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+ <tests>
+  <test name="Test1">
+    <classes>
+      <class name="seleniumAssignments.tests.IrctcTest"></class>
+    </classes>
+  </test> <!-- Test -->
+  </tests>
+</suite> 
